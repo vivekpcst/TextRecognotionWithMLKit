@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "591114102633",
+    "firebase_url": "https://ml-project-51645.firebaseio.com",
+    "project_id": "ml-project-51645",
+    "storage_bucket": "ml-project-51645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591114102633:android:0607cad9ac5ebb62",
+        "android_client_info": {
+          "package_name": "dzo.com.mymlproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591114102633-8mvo7rj4hdtig0qaucbav4htu2rnj9d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dzo.com.mymlproject",
+            "certificate_hash": "81c78bf923479323fdffcb78835271b3e3ba6064"
+          }
+        },
+        {
+          "client_id": "591114102633-13dn3tkaps3972ckn69i5kjig9li45d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHcIwe2btE7jLSNe824Noyv4eptW2h-iQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591114102633-13dn3tkaps3972ckn69i5kjig9li45d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
